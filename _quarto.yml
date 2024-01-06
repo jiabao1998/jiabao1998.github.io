@@ -41,9 +41,9 @@ website:
         href: https://www.researchgate.net/profile/Jiabao-Fan-2
     search: true
     
-    page-footer:
-      left: "&copy; Copyright 2024, Jiabao Fan"
-      right: "Prepared with [Quarto](https://quarto.org)"
+  page-footer:
+    left: "&copy; Copyright 2024, Jiabao Fan."
+    right: "Prepared with [Quarto](https://quarto.org)"
 
 execute:
   freeze: auto
