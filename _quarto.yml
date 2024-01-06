@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme: full
+    css: styles.css
+    grid:
+      body-width: 1000px
+
+website:
+  title: "Jiabao Fan"
+  description: "Personal website of Jiabao Fan"
+  site-url: https://jiabao1998.github.io/
+  repo-url: https://github.com/jiabao1998/jiabao1998.github.io
+  
+  navbar:
+    background: "#ebebeb"
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "Publication"
+        file: publication.qmd
+      - text: "Presentation"
+        file: presentation.qmd
+      - text: "CV"
+        file: CV/CV_JiabaoFan.pdf
+      - text: Utopia
+        file: utopia.qmd
+    right:
+      - icon: envelope
+        href: mailto:jiabao.fan@uconn.edu
+      - text: "{{< ai google-scholar size=xl >}}"
+        href: https://scholar.google.com/citations?hl=en&user=YoqY67cAAAAJ
+      - text: "{{< ai orcid size=xl >}}"
+        href: https://orcid.org/0000-0002-0178-3620
+      - text: "{{< ai researchgate size=xl >}}"
+        href: https://www.researchgate.net/profile/Jiabao-Fan-2
+    search: true
+    
+    page-footer:
+      left: "&copy; Copyright 2024, Jiabao Fan"
+      right: "Prepared with [Quarto](https://quarto.org)"
+
+execute:
+  freeze: auto
+  

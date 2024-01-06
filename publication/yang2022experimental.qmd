@@ -1,0 +1,31 @@
+## An experimental study of Mandarin-speaking children's acquisition of recursion under a formal definition/classification system for recursion
+
+Starting with constructing a formal definition/classification system for recursion and
+consequently dividing recursive sequences into different levels and subtypes, the current
+paper presents an experimental study of Mandarin-speaking children’s acquisition of three
+subtypes of 2-level recursive sequences exemplified with the so-called “recursive relative
+clauses (RCs)”, reanalyzed as the 2-level tail-, nested-, and mixed-recursion RC sequences.
+249 Mandarin-speaking children aged 4–9 years and 46 adult controls are recruited to
+finish a most-structured elicited Production task. The main findings are as follows: in
+general, children have acquired 1-level recursive RC sequences by the age of 4, but they
+have not acquired 2-level tail-recursion RC sequences until the age of 6, they have not
+acquired 2-level mixed-recursion RC sequences until the age of 8–9, and they have not
+acquired 2-level nested-recursion RC sequences until the age of at least 10; before
+acquiring 2-level recursive RC sequences, children tend to replace them with 1-level
+recursive RC sequences or coordinate structures. This experimental study provides new data
+and accounts for the development of the faculty of linguistic recursion, and also evidence
+in support of the formal definition/classification system for recursion. Further, this
+study makes more elaborate by subdivision the part of Chomsky Hierarchy (1959) claimed to
+be unique to natural language.
+
+``` bib
+@article{yang2022experimental,
+  title = {An experimental study of Mandarin-speaking children's acquisition of recursion under a formal definition/classification system for recursion},
+  author = {Yang, Caimei and Hu, Yafei and Fan, Jiabao and Dong, Xin and Jeschull, Liane},
+  journal = {Lingua},
+  volume = 271,
+  pages = 103228,
+  year = 2022,
+  publisher = {Elsevier}
+}
+```

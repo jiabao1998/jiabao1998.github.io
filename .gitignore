@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.httr-oauth
+.DS_Store
+
+/.quarto/
+*/*.aux
+*/*.log
+*/*.out
+*/*.synctex.gz
+CV/CV_JiabaoFan.tex

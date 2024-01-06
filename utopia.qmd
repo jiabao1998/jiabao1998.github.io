@@ -1,0 +1,41 @@
+```{=html}
+<style>
+  #photo-container {
+    width: 25em;
+    margin: 0 auto;
+  }
+
+  #current-photo {
+    width: 100%;
+    height: auto;
+  }
+</style>
+
+<div id="photo-container">
+  <img src="image/baozi1.jpg" id="current-photo" alt="Jiabao Fan">
+  <button onclick="previousPhoto()">Previous</button>
+  <button onclick="nextPhoto()">Next</button>
+</div>
+<script>
+  var currentPhotoIndex = 0;
+  var photos = ["image/baozi1.jpg", "image/oreo1.jpg", "image/oreo2.jpg",
+                "image/meimei.jpg", "image/baoziandmeimei.jpg", "image/baozi2.jpg",
+                "image/cat.jpg", "image/lanlan.jpg"];
+  
+  function showCurrentPhoto() {
+    document.getElementById("current-photo").src = photos[currentPhotoIndex];
+  }
+
+  function previousPhoto() {
+    currentPhotoIndex = (currentPhotoIndex - 1 + photos.length) % photos.length;
+    showCurrentPhoto();
+  }
+
+  function nextPhoto() {
+    currentPhotoIndex = (currentPhotoIndex + 1) % photos.length;
+    showCurrentPhoto();
+  }
+  
+  showCurrentPhoto();
+</script>
+```

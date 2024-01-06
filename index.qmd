@@ -1,0 +1,27 @@
+---
+title: "Jiabao Fan"
+subtitle: \[tɕja&#x2075;&#x2075;pɑʊ&#xB3;&#x2075; fan&#x2075;&#185;\]
+image: image/jiabao.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+---
+
+## About me
+
+Hiya! I am Jiabao Fan, a new Ph.D. student in the [Department of Linguistics](https://linguistics.uconn.edu)
+at the [University of Connecticut](https://uconn.edu/).
+
+## Education
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+`r fontawesome::fa("graduation-cap")` M.A. in Linguistics, 2023
+
+Soochow University
+
+`r fontawesome::fa("graduation-cap")` B.A. in English Language Teaching, 2020
+
+Jiangsu Normal University

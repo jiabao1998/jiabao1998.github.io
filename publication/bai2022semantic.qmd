@@ -1,0 +1,39 @@
+## Semantic integration of multidimensional perceptual information in L1 sentence comprehension
+
+Many studies have substantiated the perceptual symbol system, which assumes a routine
+generation of perceptual information during language comprehension, but little is known
+about the processing format in which the perceptual information of different dimensions is
+conveyed simultaneously during sentence comprehension. The current study provides the first
+experimental evidence of how multidimensional perceptual information (color and shape) was
+processed during online sentence comprehension in Mandarin. We designed three consecutive
+sentence–picture verification tasks that only differed in the delay of the display of
+pictures preceded by declarative sentences. The processing was analyzed in three stages
+based on time intervals (i.e., 0ms, +750ms, +1500ms). The response accuracy and response
+time data were reported. The initial stage (i.e., ISI=0ms) attested the match effect of
+color and shape, but the simulated representation of color and shape did not interact. In
+the intermediate stage (i.e., ISI=750ms), the routinely simulated color and shape
+interacted, but the match facilitation was found only in cases where one perceptual
+information was in mismatch while the other was not. In the final stage (i.e., ISI=1500ms),
+the match facilitation of one particular perceptual property was influenced by a mismatch
+with the other perceptual property. These results suggested that multiple perceptual
+information presented simultaneously was processed in an additive manner to a large extent
+before entering into the final stage, where the simulated perceptual information was
+integrated in a multiplicative manner. The results also suggested that color and shape
+were comparable to object recognition when conjointly conveyed. In relation to other
+evidence from behavioral and event-related potential studies on sentence reading in the
+discussion, we subscribed to the idea that the full semantic integration became available
+over time.
+
+``` bib
+@article{bai2022semantic,
+  title = {Semantic integration of multidimensional perceptual information in L1 sentence comprehension},
+  author = {Bai, Bing and Yang, Caimei and Fan, Jiabao},
+  journal = {Language and Cognition},
+  volume = 14,
+  number = 1,
+  pages = {109--130},
+  year = 2022,
+  publisher = {Cambridge University Press}
+}
+```
+

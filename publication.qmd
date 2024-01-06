@@ -1,0 +1,42 @@
+## [An experimental study of Mandarin-speaking children’s acquisition of recursion under a formal definition/classification system for recursion](publication/yang2022experimental.qmd)
+
+<table>
+<tr>
+<td width="40%">
+<img src="image/yang2022experimental.jpeg" style="max-width: 95%">
+</td>
+<td width="60%">
+Published in *Lingua*, 2022.
+        
+We present an experimental study of Mandarin-speaking children's acquisition of three
+subtypes of 2-level recursive sequences.
+        
+Recommended citation: Yang, C., Hu, Y., Fan, J., Dong, X. and Jeschull, L. (2022).
+An experimental study of Mandarin-speaking children’s acquisition of recursion under a
+formal definition/classification system for recursion.
+Lingua, 271, 103228.
+[DOI](https://doi.org/10.1016/j.lingua.2021.103228)
+</td>
+</tr>
+</table>
+
+## [Semantic integration of multidimensional perceptual information in L1 sentence comprehension](publication/bai2022semantic.qmd)
+
+<table>
+<tr>
+<td width="40%">
+<img src="image/bai2022semantic.jpg" style="max-width: 95%">
+</td>
+<td width="60%">
+Published in *Language and Cognition*, 2022.
+
+We provide the first experimental evidence of how multidimensional perceptual information
+(color and shape) was processed during online sentence comprehension in Mandarin.
+
+Recommended citation: Bai, B., Yang, C. and Fan, J. (2022).
+Semantic integration of multidimensional perceptual information in L1 sentence comprehension.
+Language and Cognition, 14(1): 109--130.
+[DOI](https://doi.org/10.1017/langcog.2021.24)
+</td>
+</tr>
+</table>
